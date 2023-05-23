@@ -1,11 +1,16 @@
 # Hey there, I'm Jenn 👋
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/jennifer-alexandria-quintal-419b527a/))
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/jennifer-alexandria-quintal-419b527a/))
+<p align="center">
+<a href="https://www.linkedin.com/in/jennifer-alexandria-quintal-419b527a/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-pink" style="margin-bottom: 5px;">
+</a>
+<br>
+
+<a href="mailto:quintal.jenn@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Jenn%2C" target="_blank">
+<img alt="Email" src="https://img.shields.io/badge/-EMAIL-purple" style="margin-bottom: 5px;">
+</a>
+<br>
 
 <!--
 **quinjenn/quinjenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
