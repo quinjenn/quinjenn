@@ -1,7 +1,6 @@
 # Hey there, I'm Jenn 👋
 
 ### Connect with me:
-<p align="center">
 <a href="https://www.linkedin.com/in/jennifer-alexandria-quintal-419b527a/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-pink" style="margin-bottom: 5px;">
 </a>
