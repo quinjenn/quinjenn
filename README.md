@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/jennifer-alexandria-quintal-419b527a/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-pink" style="margin-bottom: 5px;">
 </a>
-<br>
-
 <a href="mailto:quintal.jenn@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Jenn%2C" target="_blank">
 <img alt="Email" src="https://img.shields.io/badge/-EMAIL-purple" style="margin-bottom: 5px;">
 </a>
