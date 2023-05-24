@@ -20,7 +20,6 @@
 <h3 align="center">Tech Stack and Tools:</h3>
 <p align="center">
   <a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
