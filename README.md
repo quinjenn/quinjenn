@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jenn 💁🏻‍♀️</h1>
+<h1 align="center">Hey there, I'm Jenn 👋</h1>
 
 <h3 align="center">About Me:</h3>
 <p align="center">
